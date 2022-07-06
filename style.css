@@ -73,7 +73,7 @@ section {
     font-size: 20px;
     color: #707070;
 }
-.expoloar {
+.explore{
     display: flex;
     width: 100%;
 }
@@ -110,18 +110,52 @@ section {
     width: 40%;
     margin: 5%;
     box-shadow: 10px 10px 10px gray;
-    background-color: rgb(147, 194, 157);
+    background-color: rgb(196, 243, 206);
 }
 .container3 img {
     margin-top: 20px;
     width: 60px;
     padding: 20px;
 }
+div{
+    text-align: center;
+}
+.form{
+    display: flex;
+}
+.fourth-part{
+    font-size: 30px;
+}
+.fourth-part img{
+    height: 500px;
+    width: 550px;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+  input[type=submit] {
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .container4 {
+    border-radius: 5px;
+    background-color: #e6f3f1;
+    padding: 20px;
+  }
 .fifth-part{
     font-size: 30px;
 }
 .para4 {
-    text-align: center;
     font-size: 20px;
     color: #707070;
 }
@@ -131,6 +165,21 @@ section {
     margin-right: 350px;
     padding: 80px;
     border-radius: 5px;
+}
+.text{
+    width: 350px;
+    height: 50px;
+    background-color: rgb(228, 219, 219);
+    border: none;
+}
+.link-button1{
+    height: 55px;
+    width: 80px;
+    background-image: linear-gradient(tomato, orange);
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+    border: none;
 }
 footer{
     background-color: #010316;
@@ -146,9 +195,7 @@ footer .foot{
     justify-content: space-around;
     margin: 0 auto;
 }
-.end{
-    opacity: 0.5;
-}
 .foot-heading{
     color: darkorange;
+    font-family: 'Lobster Two', cursive;
 }
