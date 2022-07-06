@@ -6,7 +6,7 @@ section {
     text-align: center;
 }
 .h_bg {
-    background-image: url("Images/donation13.jpg");
+    background-image: url("images/bgp.jpg");
     background-repeat: no-repeat;
     height: 450px;
     background-position: center;
@@ -168,7 +168,7 @@ input[type=submit] {
     display: flex;
 }
 .text{
-    width: 50git0px;
+    width: 500px;
     height: 58px;
     background-color: rgb(228, 219, 219);
     border: none;
