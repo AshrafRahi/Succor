@@ -117,16 +117,50 @@ font-size: 50px;
     width: 60px;
     padding: 20px;
 }
+.stand{
+    display: flex;
+}
+.fourth-part{
+    font-size: 30px;
+}
+.para4{
+    color: #707070;
+    font-size: 20px;
+    font-weight: 50;
+    padding-top: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: 5%;
+    text-align: left;
+}
+.fourth-part img{
+    height: 450px;
+    width: 500px;
+    margin-left: 25%;
+}
+.link-button2{
+    font-size: 20px;
+    font-weight: 50px;
+    width: 200px;
+    height: 70px;
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
 div{
     text-align: center;
 }
 .form{
     display: flex;
 }
-.fourth-part{
+.fifth-part{
     font-size: 30px;
 }
-.fourth-part img{
+.fifth-part img{
     height: 500px;
     width: 550px;
 }
@@ -152,10 +186,10 @@ input[type=submit] {
     background-color: #e6f3f1;
     padding: 20px;
 }
-.fifth-part{
+.six-part{
     font-size: 30px;
 }
-.para4 {
+.para5 {
     font-size: 20px;
     color: #707070;
 }
